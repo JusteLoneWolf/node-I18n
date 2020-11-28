@@ -17,6 +17,4 @@ node-I18n.initWebhook(WebhookID,WebhookToken,username,avatar) => require
 ```
 ### To use
 
-`npm i github:eslachance/node-i18n`
-
-and replace node_modules/node-i18n/app.js to this app.js
+`npm i github:zechaos/node-i18n`

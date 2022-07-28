@@ -4,7 +4,7 @@ Same module of [node-I18n](https://github.com/eslachance/node-i18n)
 
 ### Install
 
-`npm i github:zechaos/node-i18n ` or `yarn add github:zechaos/node-i18n`
+`npm i github:LoneWolfSteam/node-i18n ` or `yarn add github:LoneWolfSteam/node-i18n`
 
 ### To use
 ```

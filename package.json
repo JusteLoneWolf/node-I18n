@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zechaos031/node-I18n.git"
+    "url": "git+https://github.com/LoneWolfSteam/node-I18n.git"
   },
   "keywords": [
     "i18n",
@@ -16,10 +16,10 @@
     "internationalization",
     "translation"
   ],
-  "author": "zechaos",
+  "author": "LoneWolfSteam",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zechaos031/node-I18n/issues"
+    "url": "https://github.com/LoneWolfSteam/node-I18n/issues"
   },
   "homepage": "https://github.com/eslachance/node-i18n#readme"
 }
